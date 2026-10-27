@@ -1,57 +1,104 @@
 {
-  "title": "Daily X narrative digest \u2014 2026-10-26",
-  "date": "2026-10-26",
+  "title": "Daily X narrative digest \u2014 2026-10-27",
+  "date": "2026-10-27",
   "timezone": "America/New_York",
-  "updated": "2026-10-26T00:35:00-04:00",
+  "updated": "2026-10-27T11:30:00-04:00",
   "brand_title": "Jabbar's X Virality Score",
   "brand_handle": "@Jabbar_Now",
   "hits": [],
-  "virals": [],
+  "virals": [
+    {
+      "name": "philarekt",
+      "handle": "@philarekt",
+      "views": 16762,
+      "url": "https://x.com/philarekt/status/2114374147794964834",
+      "hook": "\"MY PREDICTIONS FOR THE NEXT 3 YEARS\" \u2014 numbered year-by-year macro list (Fed, recession, dollar). 115 likes, 15 reposts. \u2605"
+    },
+    {
+      "name": "Rubycryptoz",
+      "handle": "@Rubycryptoz",
+      "views": 13593,
+      "url": "https://x.com/Rubycryptoz/status/2114373034123698527",
+      "hook": "Tokenized commercial real estate pitch. High views but 0 likes, so treat as weak signal (likely paid reach). \u2605"
+    },
+    {
+      "name": "Rubycryptoz",
+      "handle": "@Rubycryptoz",
+      "views": 12322,
+      "url": "https://x.com/Rubycryptoz/status/2114374420156633220",
+      "hook": "Fractionalized green real estate pitch. 2 likes on 12k views, weak signal. \u2605"
+    },
+    {
+      "name": "EACinvestor",
+      "handle": "@EACinvestor",
+      "views": 5202,
+      "url": "https://x.com/EACinvestor/status/2114421513684431338",
+      "hook": "Contrarian 'little rant' about absolutist bond guys. 83 likes, 25 reposts."
+    },
+    {
+      "name": "cleanslaterun",
+      "handle": "@cleanslaterun",
+      "views": 3584,
+      "url": "https://x.com/cleanslaterun/status/2114827161353990496",
+      "hook": "Near miss, closest niche match: deal receipt, 'Just sold another deal for a $40k assignment fee.' 59 likes."
+    },
+    {
+      "name": "heIpfullandlord",
+      "handle": "@heIpfullandlord",
+      "views": 2885,
+      "url": "https://x.com/heIpfullandlord/status/2114741777651638541",
+      "hook": "Near miss: one-line question, 'What's the most challenging part of real estate investing?'"
+    }
+  ],
   "outsiders": [],
   "patterns": [
-    "link-only posts get <10 views",
-    "text+data (Philly Market Pulse, zip codes) is the top performer at 18 views",
-    "motivational 'build your legacy' copy",
-    "hashtag stacks"
+    "numbered predictions / year-by-year lists",
+    "deal receipts with exact numbers (contract, rehab, ARV, assignment fee)",
+    "one-line open questions that invite replies",
+    "contrarian 'little rant' framing",
+    "keywords: assignment fee, creative finance, seller finance, SubTo, generational wealth",
+    "link-only posts still get <10 views on @Jabbar_Now"
   ],
   "no_hits": [
     {
       "handle": "@Jabbar_Now",
-      "reason": "No original in last 25 (Mar 17\u2013Sep 15, 2026) reached 5,000 views; highest was 18 views (Philly Market Pulse, May 17).",
+      "reason": "No original in the last 25 (Mar 17\u2013Sep 15, 2026) reached 5,000 views, and nothing new has been posted since Sep 15. Best is still 18 views (Philly Market Pulse, May 17).",
       "max_views": 18
     },
     {
       "handle": "@workwithbar",
-      "reason": "Account has 0 posts.",
+      "reason": "Account still has 0 posts.",
       "max_views": 0
     }
   ],
-  "virals_narrative": "First run: no outsider scan yet.",
-  "narrative_synthesis": "First run: no outsider scan yet.",
+  "virals_narrative": "Scanned X for posts since Oct 24 on wholesaling, creative finance, assignment fees and generational wealth. Four outsiders cleared 5,000 views (three cleared 10,000), but only philarekt and EACinvestor had real engagement behind the views. The strongest on-niche signal was a $40k assignment-fee deal receipt at 3.6k views.",
+  "narrative_synthesis": "Numbers and receipts win; vague motivation and bare links don't. Drafts for today: (1) a Philly 3-year predictions list, (2) a deal-breakdown receipt using your own real numbers, (3) a one-line question to farm replies.",
   "virals_window": "last ~48h",
   "virals_target": 20,
   "hits_count": 0,
-  "outsiders_count": 0,
+  "outsiders_count": 4,
   "previous_day": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-10-26",
+    "as_of": "2026-10-27",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-10-26"
+      "2026-10-26",
+      "2026-10-27"
     ],
     "month_days_included": [
-      "2026-10-26"
+      "2026-10-26",
+      "2026-10-27"
     ],
     "week": {
-      "label": "Rolling week \u00b7 Oct 20\u2013Oct 26",
+      "label": "Rolling week \u00b7 Oct 21\u2013Oct 27",
       "range": [
-        "2026-10-20",
-        "2026-10-26"
+        "2026-10-21",
+        "2026-10-27"
       ],
       "entries": []
     },
@@ -59,7 +106,7 @@
       "label": "October 2026 \u00b7 from Oct 26",
       "range": [
         "2026-10-26",
-        "2026-10-26"
+        "2026-10-27"
       ],
       "entries": []
     }
@@ -89,5 +136,22 @@
     "default_theme": "night"
   },
   "day_roster": [],
-  "you_rank": null
+  "you_rank": null,
+  "drafts": [
+    {
+      "draft_en": "My predictions for Philly real estate over the next 3 years:\n\n2027: [your call]\n2028: [your call]\n2029: [your call]\n\nSave this. Tell me which one you think I got wrong.",
+      "pattern": "numbered predictions list",
+      "video_tip": "Talking-head, one prediction per cut with the year big on screen, under 45s."
+    },
+    {
+      "draft_en": "Deal breakdown (Philly):\n\nLocked up at $[X]\nRehab: $[X]\nARV: $[X]\nAssigned for $[X]\n\nThe deal was in the numbers, not the house. DM 'DEALS' to get on my buyers list.",
+      "pattern": "deal receipt with exact numbers",
+      "video_tip": "Walk past the property, then flash each number on screen as you say it. Use only real deal numbers."
+    },
+    {
+      "draft_en": "Real question for investors: what's the one thing stopping you from doing your first creative finance deal?",
+      "pattern": "one-line open question",
+      "video_tip": "Skip video. Post text-only, then reply to every answer in the first hour."
+    }
+  ]
 }
