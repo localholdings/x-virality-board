@@ -1,0 +1,93 @@
+{
+  "title": "Daily X narrative digest \u2014 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "America/New_York",
+  "updated": "2026-10-26T00:35:00-04:00",
+  "brand_title": "Jabbar's X Virality Score",
+  "brand_handle": "@Jabbar_Now",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [
+    "link-only posts get <10 views",
+    "text+data (Philly Market Pulse, zip codes) is the top performer at 18 views",
+    "motivational 'build your legacy' copy",
+    "hashtag stacks"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Jabbar_Now",
+      "reason": "No original in last 25 (Mar 17\u2013Sep 15, 2026) reached 5,000 views; highest was 18 views (Philly Market Pulse, May 17).",
+      "max_views": 18
+    },
+    {
+      "handle": "@workwithbar",
+      "reason": "Account has 0 posts.",
+      "max_views": 0
+    }
+  ],
+  "virals_narrative": "First run: no outsider scan yet.",
+  "narrative_synthesis": "First run: no outsider scan yet.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-10-25",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-10-26"
+    ],
+    "month_days_included": [
+      "2026-10-26"
+    ],
+    "week": {
+      "label": "Rolling week \u00b7 Oct 20\u2013Oct 26",
+      "range": [
+        "2026-10-20",
+        "2026-10-26"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "October 2026 \u00b7 from Oct 26",
+      "range": [
+        "2026-10-26",
+        "2026-10-26"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
+  },
+  "operator": {
+    "handle": "@Jabbar_Now",
+    "name": "Jabbar Fairweather",
+    "profile_url": "https://x.com/Jabbar_Now"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null
+}
