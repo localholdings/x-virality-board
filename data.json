@@ -1,68 +1,61 @@
 {
-  "title": "Daily X narrative digest \u2014 2026-10-27",
-  "date": "2026-10-27",
+  "title": "Daily X narrative digest — 2026-10-28",
+  "date": "2026-10-28",
   "timezone": "America/New_York",
-  "updated": "2026-10-27T11:30:00-04:00",
+  "updated": "2026-10-28T11:20:00-04:00",
   "brand_title": "Jabbar's X Virality Score",
   "brand_handle": "@Jabbar_Now",
   "hits": [],
   "virals": [
     {
-      "name": "philarekt",
-      "handle": "@philarekt",
-      "views": 16762,
-      "url": "https://x.com/philarekt/status/2114374147794964834",
-      "hook": "\"MY PREDICTIONS FOR THE NEXT 3 YEARS\" \u2014 numbered year-by-year macro list (Fed, recession, dollar). 115 likes, 15 reposts. \u2605"
+      "name": "AlyssaDegraff",
+      "handle": "@AlyssaDegraff",
+      "views": 8740,
+      "url": "https://x.com/AlyssaDegraff/status/2115143781813268573",
+      "hook": "Off-niche quote post reacting to a pastor's 'stored resources' money pitch. 50 likes, 23 bookmarks, 9 replies. Outrage-plus-money framing travels."
     },
     {
-      "name": "Rubycryptoz",
-      "handle": "@Rubycryptoz",
-      "views": 13593,
-      "url": "https://x.com/Rubycryptoz/status/2114373034123698527",
-      "hook": "Tokenized commercial real estate pitch. High views but 0 likes, so treat as weak signal (likely paid reach). \u2605"
-    },
-    {
-      "name": "Rubycryptoz",
-      "handle": "@Rubycryptoz",
-      "views": 12322,
-      "url": "https://x.com/Rubycryptoz/status/2114374420156633220",
-      "hook": "Fractionalized green real estate pitch. 2 likes on 12k views, weak signal. \u2605"
-    },
-    {
-      "name": "EACinvestor",
-      "handle": "@EACinvestor",
-      "views": 5202,
-      "url": "https://x.com/EACinvestor/status/2114421513684431338",
-      "hook": "Contrarian 'little rant' about absolutist bond guys. 83 likes, 25 reposts."
+      "name": "rei_chronicles",
+      "handle": "@rei_chronicles",
+      "views": 4018,
+      "url": "https://x.com/rei_chronicles/status/2114801021826564164",
+      "hook": "Near miss, best on-niche: numbered 'cautionary tale' about seller finance, balloon payments and guru advice. 10 replies, 2 quotes."
     },
     {
       "name": "cleanslaterun",
       "handle": "@cleanslaterun",
-      "views": 3584,
+      "views": 3839,
       "url": "https://x.com/cleanslaterun/status/2114827161353990496",
-      "hook": "Near miss, closest niche match: deal receipt, 'Just sold another deal for a $40k assignment fee.' 59 likes."
+      "hook": "Still climbing: $40k assignment-fee deal receipt. 62 likes, 20 bookmarks."
     },
     {
-      "name": "heIpfullandlord",
-      "handle": "@heIpfullandlord",
-      "views": 2885,
-      "url": "https://x.com/heIpfullandlord/status/2114741777651638541",
-      "hook": "Near miss: one-line question, 'What's the most challenging part of real estate investing?'"
+      "name": "amandaorson",
+      "handle": "@amandaorson",
+      "views": 2528,
+      "url": "https://x.com/amandaorson/status/2115227419468824983",
+      "hook": "Five-word quote take: 'Its seller finance szn rn'. Short timely takes ride the topic."
+    },
+    {
+      "name": "drboycewatkins1",
+      "handle": "@drboycewatkins1",
+      "views": 1856,
+      "url": "https://x.com/drboycewatkins1/status/2114824689994596631",
+      "hook": "Generational wealth contrarian: 'Stop insuring death. Start building assets that outlive you.'"
     }
   ],
   "outsiders": [],
   "patterns": [
-    "numbered predictions / year-by-year lists",
-    "deal receipts with exact numbers (contract, rehab, ARV, assignment fee)",
-    "one-line open questions that invite replies",
-    "contrarian 'little rant' framing",
-    "keywords: assignment fee, creative finance, seller finance, SubTo, generational wealth",
-    "link-only posts still get <10 views on @Jabbar_Now"
+    "numbered cautionary tales (what went wrong, in a list) pull replies",
+    "deal receipts with exact dollar figures keep earning bookmarks",
+    "short timely takes on a hot term ('seller finance szn')",
+    "one beginner-mistake tip per post (assignment clause, balloon terms)",
+    "keywords: seller finance, balloon payment, assignment fee, SubTo, generational wealth",
+    "promo posts with phone numbers or links get near-zero views"
   ],
   "no_hits": [
     {
       "handle": "@Jabbar_Now",
-      "reason": "No original in the last 25 (Mar 17\u2013Sep 15, 2026) reached 5,000 views, and nothing new has been posted since Sep 15. Best is still 18 views (Philly Market Pulse, May 17).",
+      "reason": "No new originals since Sep 15, so nothing to score. Best ever is still 18 views (Philly Market Pulse, May 17).",
       "max_views": 18
     },
     {
@@ -71,42 +64,44 @@
       "max_views": 0
     }
   ],
-  "virals_narrative": "Scanned X for posts since Oct 24 on wholesaling, creative finance, assignment fees and generational wealth. Four outsiders cleared 5,000 views (three cleared 10,000), but only philarekt and EACinvestor had real engagement behind the views. The strongest on-niche signal was a $40k assignment-fee deal receipt at 3.6k views.",
-  "narrative_synthesis": "Numbers and receipts win; vague motivation and bare links don't. Drafts for today: (1) a Philly 3-year predictions list, (2) a deal-breakdown receipt using your own real numbers, (3) a one-line question to farm replies.",
+  "virals_narrative": "Scanned X since Oct 26 for wholesaling, creative finance, seller finance and generational wealth. No on-niche post cleared 5,000 views today. The only post above 5k was an off-niche money-outrage quote (8.7k). Best on-niche was a seller-finance cautionary tale at 4.0k with 10 replies, and yesterday's $40k assignment-fee receipt kept climbing to 3.8k.",
+  "narrative_synthesis": "Seller finance is the hot term this week, and the angle that gets replies is the warning, not the hype. Drafts for today: (1) a numbered seller-finance cautionary list, (2) one beginner wholesaling mistake, (3) a short timely take inviting replies.",
   "virals_window": "last ~48h",
   "virals_target": 20,
   "hits_count": 0,
-  "outsiders_count": 4,
+  "outsiders_count": 1,
   "previous_day": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-28",
     "tracking_start": "2026-10-26",
     "days_included": [
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "month_days_included": [
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "week": {
-      "label": "Rolling week \u00b7 Oct 21\u2013Oct 27",
+      "label": "Rolling week · Oct 22–Oct 28",
       "range": [
-        "2026-10-21",
-        "2026-10-27"
+        "2026-10-22",
+        "2026-10-28"
       ],
       "entries": []
     },
     "month": {
-      "label": "October 2026 \u00b7 from Oct 26",
+      "label": "October 2026 · from Oct 26",
       "range": [
         "2026-10-26",
-        "2026-10-27"
+        "2026-10-28"
       ],
       "entries": []
     }
@@ -139,18 +134,18 @@
   "you_rank": null,
   "drafts": [
     {
-      "draft_en": "My predictions for Philly real estate over the next 3 years:\n\n2027: [your call]\n2028: [your call]\n2029: [your call]\n\nSave this. Tell me which one you think I got wrong.",
-      "pattern": "numbered predictions list",
-      "video_tip": "Talking-head, one prediction per cut with the year big on screen, under 45s."
+      "draft_en": "Seller finance is everywhere right now. Before you sign one in Philly, check these 4 things:\n\n1) When is the balloon due, and can you really refi by then?\n2) Does the rent cover the payment with room for repairs?\n3) Is there a due-on-sale risk on the seller's loan?\n4) Who's advising you, and have they closed one?\n\nSave this.",
+      "pattern": "numbered cautionary list",
+      "video_tip": "Talking-head, one point per cut with the number big on screen, under 40s. End on 'save this'."
     },
     {
-      "draft_en": "Deal breakdown (Philly):\n\nLocked up at $[X]\nRehab: $[X]\nARV: $[X]\nAssigned for $[X]\n\nThe deal was in the numbers, not the house. DM 'DEALS' to get on my buyers list.",
-      "pattern": "deal receipt with exact numbers",
-      "video_tip": "Walk past the property, then flash each number on screen as you say it. Use only real deal numbers."
+      "draft_en": "Beginner wholesaling mistake I see all the time:\n\nSigning a contract that doesn't let you assign it.\n\nNo 'and/or assigns,' no assignment fee. Read the buyer line before the seller signs.",
+      "pattern": "one beginner-mistake tip",
+      "video_tip": "Screen-record a blank contract, circle the buyer line and the assignment clause as you talk. 20-30s."
     },
     {
-      "draft_en": "Real question for investors: what's the one thing stopping you from doing your first creative finance deal?",
-      "pattern": "one-line open question",
+      "draft_en": "It's seller finance season. Rates are high and listings are sitting.\n\nInvestors in Philly: are you seeing more sellers open to terms, or not yet?",
+      "pattern": "short timely take + question",
       "video_tip": "Skip video. Post text-only, then reply to every answer in the first hour."
     }
   ]
