@@ -1,61 +1,68 @@
 {
-  "title": "Daily X narrative digest — 2026-10-28",
-  "date": "2026-10-28",
+  "title": "Daily X narrative digest — 2026-10-29",
+  "date": "2026-10-29",
   "timezone": "America/New_York",
-  "updated": "2026-10-28T11:20:00-04:00",
+  "updated": "2026-10-29T11:20:00-04:00",
   "brand_title": "Jabbar's X Virality Score",
   "brand_handle": "@Jabbar_Now",
   "hits": [],
   "virals": [
     {
-      "name": "AlyssaDegraff",
-      "handle": "@AlyssaDegraff",
-      "views": 8740,
-      "url": "https://x.com/AlyssaDegraff/status/2115143781813268573",
-      "hook": "Off-niche quote post reacting to a pastor's 'stored resources' money pitch. 50 likes, 23 bookmarks, 9 replies. Outrage-plus-money framing travels."
+      "name": "heIpfullandlord",
+      "handle": "@heIpfullandlord",
+      "views": 10988,
+      "url": "https://x.com/heIpfullandlord/status/2115152821708607530",
+      "hook": "STAR (10k+), on-niche: 'Seller financing changed the trajectory of my career. 6 to 23 units.' Personal before/after numbers plus an all-caps call to action. 115 likes, 22 bookmarks, 11 replies."
     },
     {
       "name": "rei_chronicles",
       "handle": "@rei_chronicles",
-      "views": 4018,
+      "views": 4040,
       "url": "https://x.com/rei_chronicles/status/2114801021826564164",
-      "hook": "Near miss, best on-niche: numbered 'cautionary tale' about seller finance, balloon payments and guru advice. 10 replies, 2 quotes."
+      "hook": "Seller-finance cautionary tale (stacked balloons, about $1,400/mo cash-flow loss). Plateaued near 4.0k; 10 replies, 9 bookmarks."
     },
     {
       "name": "cleanslaterun",
       "handle": "@cleanslaterun",
-      "views": 3839,
+      "views": 3865,
       "url": "https://x.com/cleanslaterun/status/2114827161353990496",
-      "hook": "Still climbing: $40k assignment-fee deal receipt. 62 likes, 20 bookmarks."
+      "hook": "$40k assignment-fee deal receipt, plateaued near 3.9k. 63 likes, 20 bookmarks."
     },
     {
-      "name": "amandaorson",
-      "handle": "@amandaorson",
-      "views": 2528,
-      "url": "https://x.com/amandaorson/status/2115227419468824983",
-      "hook": "Five-word quote take: 'Its seller finance szn rn'. Short timely takes ride the topic."
+      "name": "dividendology",
+      "handle": "@dividendology",
+      "views": 1745,
+      "url": "https://x.com/dividendology/status/2115817239114887543",
+      "hook": "Fresh this morning: 'biggest barrier to getting started is the upfront cost' (sponsored fractional-ownership angle). 6 replies."
     },
     {
-      "name": "drboycewatkins1",
-      "handle": "@drboycewatkins1",
-      "views": 1856,
-      "url": "https://x.com/drboycewatkins1/status/2114824689994596631",
-      "hook": "Generational wealth contrarian: 'Stop insuring death. Start building assets that outlive you.'"
+      "name": "Storage_Venture",
+      "handle": "@Storage_Venture",
+      "views": 1437,
+      "url": "https://x.com/Storage_Venture/status/2115513784492282225",
+      "hook": "'Seller financing should make a good deal better. It should never be the reason you do the deal.' Thread hook, 7 replies, 8 bookmarks."
+    },
+    {
+      "name": "depreciationunc",
+      "handle": "@depreciationunc",
+      "views": 745,
+      "url": "https://x.com/depreciationunc/status/2115787049311625600",
+      "hook": "Humor reality check: '$5k/month rent... now subtract the mortgage, insurance, repairs...' 9 replies in ~2h."
     }
   ],
   "outsiders": [],
   "patterns": [
-    "numbered cautionary tales (what went wrong, in a list) pull replies",
-    "deal receipts with exact dollar figures keep earning bookmarks",
-    "short timely takes on a hot term ('seller finance szn')",
-    "one beginner-mistake tip per post (assignment clause, balloon terms)",
-    "keywords: seller finance, balloon payment, assignment fee, SubTo, generational wealth",
-    "promo posts with phone numbers or links get near-zero views"
+    "personal before/after numbers (6 to 23 units) beat generic seller-finance explainers",
+    "seller finance is still the hot term for a third day; warnings and personal wins both travel",
+    "'X should make a good deal better, never be the reason' contrarian framing pulls bookmarks",
+    "expense reality-check humor (gross rent vs. what's left) pulls fast replies",
+    "keywords: seller financing, ask the seller, units, balloon, assignment fee, cash flow",
+    "promo posts with phone numbers, links, or 'DM HOME' still get near-zero views"
   ],
   "no_hits": [
     {
       "handle": "@Jabbar_Now",
-      "reason": "No new originals since Sep 15, so nothing to score. Best ever is still 18 views (Philly Market Pulse, May 17).",
+      "reason": "No new originals since Sep 15 (latest post id unchanged), so nothing to score. Best ever is still 18 views (Philly Market Pulse, May 17).",
       "max_views": 18
     },
     {
@@ -64,36 +71,38 @@
       "max_views": 0
     }
   ],
-  "virals_narrative": "Scanned X since Oct 26 for wholesaling, creative finance, seller finance and generational wealth. No on-niche post cleared 5,000 views today. The only post above 5k was an off-niche money-outrage quote (8.7k). Best on-niche was a seller-finance cautionary tale at 4.0k with 10 replies, and yesterday's $40k assignment-fee receipt kept climbing to 3.8k.",
-  "narrative_synthesis": "Seller finance is the hot term this week, and the angle that gets replies is the warning, not the hype. Drafts for today: (1) a numbered seller-finance cautionary list, (2) one beginner wholesaling mistake, (3) a short timely take inviting replies.",
+  "virals_narrative": "Scanned X since Oct 27 for seller finance, wholesaling, creative finance, real estate investing and generational wealth. One on-niche post cleared the 10k star line: @heIpfullandlord's 'seller financing took me from 6 to 23 units' at 11.0k views. Yesterday's cautionary tale and $40k receipt have plateaued just under 4k. Nothing from the watchlist to score.",
+  "narrative_synthesis": "Seller finance is still the meta, and today's winner was a short personal win with real numbers and a clear call to action. Drafts for today: (1) a short 'ask the seller' post with one concrete number, (2) the contrarian 'terms make a good deal better, not a bad deal good' take, (3) a Philly rent-vs-expenses reality check that invites replies.",
   "virals_window": "last ~48h",
   "virals_target": 20,
   "hits_count": 0,
   "outsiders_count": 1,
   "previous_day": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "tracking_start": "2026-10-26",
     "days_included": [
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ],
     "month_days_included": [
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ],
     "week": {
-      "label": "Rolling week · Oct 22–Oct 28",
+      "label": "Rolling week · Oct 23–Oct 29",
       "range": [
-        "2026-10-22",
-        "2026-10-28"
+        "2026-10-23",
+        "2026-10-29"
       ],
       "entries": []
     },
@@ -101,7 +110,7 @@
       "label": "October 2026 · from Oct 26",
       "range": [
         "2026-10-26",
-        "2026-10-28"
+        "2026-10-29"
       ],
       "entries": []
     }
@@ -134,19 +143,19 @@
   "you_rank": null,
   "drafts": [
     {
-      "draft_en": "Seller finance is everywhere right now. Before you sign one in Philly, check these 4 things:\n\n1) When is the balloon due, and can you really refi by then?\n2) Does the rent cover the payment with room for repairs?\n3) Is there a due-on-sale risk on the seller's loan?\n4) Who's advising you, and have they closed one?\n\nSave this.",
-      "pattern": "numbered cautionary list",
-      "video_tip": "Talking-head, one point per cut with the number big on screen, under 40s. End on 'save this'."
+      "draft_en": "The best deal I ever heard about started with one question:\n\n\"Would you be open to financing the sale?\"\n\nTired landlords say yes more than you think. No bank, no 25% down, terms you both agree on.\n\nIf you're talking to sellers in Philly, ask it every time.",
+      "pattern": "short personal-style win + all-caps-energy call to action (ask the seller)",
+      "video_tip": "Selfie video walking past a Philly rowhouse block. Say the one question to camera in the first 3 seconds, then why it works. Under 30s."
     },
     {
-      "draft_en": "Beginner wholesaling mistake I see all the time:\n\nSigning a contract that doesn't let you assign it.\n\nNo 'and/or assigns,' no assignment fee. Read the buyer line before the seller signs.",
-      "pattern": "one beginner-mistake tip",
-      "video_tip": "Screen-record a blank contract, circle the buyer line and the assignment clause as you talk. 20-30s."
+      "draft_en": "Seller financing should make a good deal better.\n\nIt should never be the reason you do a bad one.\n\nRun the numbers like it's a bank loan first. If it only works because of the terms, walk.",
+      "pattern": "contrarian 'should never be the reason' framing",
+      "video_tip": "Talking head, two lines on screen as you say them. 15-20s. End on 'walk.'"
     },
     {
-      "draft_en": "It's seller finance season. Rates are high and listings are sitting.\n\nInvestors in Philly: are you seeing more sellers open to terms, or not yet?",
-      "pattern": "short timely take + question",
-      "video_tip": "Skip video. Post text-only, then reply to every answer in the first hour."
+      "draft_en": "Philly rental brings in $1,800 a month.\n\nNow take out the mortgage, taxes, insurance, repairs, vacancy and the water bill.\n\nWhat's actually left on yours? Be honest.",
+      "pattern": "expense reality check + reply question",
+      "video_tip": "Skip video, or a quick whiteboard subtraction from $1,800 down. Reply to every answer in the first hour. Swap in your real numbers before posting."
     }
   ]
 }
