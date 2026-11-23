@@ -1,102 +1,109 @@
 {
-  "title": "Daily X narrative digest â 2026-11-22",
-  "date": "2026-11-22",
+  "title": "Daily X narrative digest — 2026-11-23",
+  "date": "2026-11-23",
   "timezone": "America/New_York",
-  "updated": "2026-11-22T11:06:59-05:00",
+  "updated": "2026-11-23T10:57:51-05:00",
   "brand_title": "Jabbar's X Virality Score",
   "brand_handle": "@Jabbar_Now",
   "hits": [],
   "virals": [
     {
+      "name": "Pri",
+      "handle": "@solopribuilds",
+      "views": 1115242,
+      "url": "https://x.com/solopribuilds/status/2124313801961140514",
+      "hook": "STAR (10k+), +462.5k/day to 1.12M: 'Hey @grok, if AI replaces 50% of software jobs by 2030, what happens to a 40 y/o engineer with a mortgage and kids? Give me a year-by-year survival plan.' Now #1 on the board. Adjacent niche; the format is the lesson: specific life situation + ask Grok for a year-by-year plan."
+    },
+    {
       "name": "Alex Mercer",
       "handle": "@RitadeCSB",
-      "views": 993238,
+      "views": 993375,
       "url": "https://x.com/RitadeCSB/status/2121941566541717544",
-      "hook": "STAR (10k+), flat at 993.2k: the 'Hey @grok, you're 35 with $500K, choose ONE' copy. Still #1 but nearly flat (+1.3k in a day). 705 likes, 415 bookmarks."
+      "hook": "STAR (10k+), flat at 993.4k: the 'Hey @grok, you're 35 with $500K, choose ONE' copy. Still #1 but nearly flat (+1.3k in a day). 705 likes, 415 bookmarks."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 743425,
+      "views": 743501,
       "url": "https://x.com/GrantCardone/status/2118436898590855376",
-      "hook": "STAR (10k+), flat at 743.4k: politics-exit PSA; sticking to business/RE/family/wealth."
-    },
-    {
-      "name": "Pri",
-      "handle": "@solopribuilds",
-      "views": 652712,
-      "url": "https://x.com/solopribuilds/status/2124313801961140514",
-      "hook": "STAR (10k+), new: 'Hey @grok, if AI replaces 50% of software jobs by 2030, what happens to a 40 y/o engineer with a mortgage and kids? Give me a year-by-year survival plan.' 652.7k in ~15h, 481 bookmarks. Adjacent niche; the format is the lesson: specific life situation + ask Grok for a year-by-year plan."
+      "hook": "STAR (10k+), flat at 743.5k: politics-exit PSA; sticking to business/RE/family/wealth."
     },
     {
       "name": "Shagun 💰",
       "handle": "@shaguncrypto",
-      "views": 383149,
+      "views": 383177,
       "url": "https://x.com/shaguncrypto/status/2121586959286194529",
-      "hook": "STAR (10k+), flat at 383.1k: the original 'choose ONE' $500K fork. Flat while copies keep running."
+      "hook": "STAR (10k+), flat at 383.2k: the original 'choose ONE' $500K fork. Flat while copies keep running."
     },
     {
       "name": "REDevguy1",
       "handle": "@TheREDevGUY",
-      "views": 341971,
+      "views": 341976,
       "url": "https://x.com/TheREDevGUY/status/2119572769486610768",
       "hook": "STAR (10k+), flat at 342.0k: '$15k/month mortgage, at what income?' One-line question, 48 replies. Still the biggest question print in the niche."
     },
     {
       "name": "Ella",
       "handle": "@EllasArchive1",
-      "views": 318899,
+      "views": 318945,
       "url": "https://x.com/EllasArchive1/status/2118958879442649178",
       "hook": "STAR (10k+), flat at 318.9k: Philly landlord rent-hike story format. 207 bookmarks. Engagement story, not a deal signal."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 246530,
+      "views": 246616,
       "url": "https://x.com/GrantCardone/status/2120655770085708133",
-      "hook": "STAR (10k+), flat at 246.5k: 'What's changed about the company?' One-line question, 868 replies. Replies carry it."
+      "hook": "STAR (10k+), flat at 246.6k: 'What's changed about the company?' One-line question, 868 replies. Replies carry it."
     },
     {
       "name": "Makayla | Real Estate Investor",
       "handle": "@REIMakayla",
-      "views": 220034,
+      "views": 232206,
       "url": "https://x.com/REIMakayla/status/2124227019806589133",
-      "hook": "STAR (10k+), new and on-niche: grease-fire house story. Owner kept the $48K insurance check and sold as-is for $135K; walks through the two-party check and mortgage payoff. 220.0k in ~20h, 164 bookmarks. Specific numbers + one street-level story."
+      "hook": "STAR (10k+), +12.2k/day to 232.2k: grease-fire house story. Owner kept the $48K insurance check and sold as-is for $135K; walks through the two-party check and mortgage payoff. One street-level story with specific numbers, still climbing."
     },
     {
       "name": "Ben Kelly",
       "handle": "@benkellyone",
-      "views": 138008,
+      "views": 138015,
       "url": "https://x.com/benkellyone/status/2115454061491204367",
       "hook": "STAR (10k+), flat at 138.0k: McDonald's-to-generational-wealth story. 184 bookmarks."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 136629,
+      "views": 136776,
       "url": "https://x.com/GrantCardone/status/2121745905166770391",
-      "hook": "STAR (10k+), flat at 136.6k: Cardone's one-line 'BTC go to zero?' fear question."
+      "hook": "STAR (10k+), flat at 136.8k: Cardone's one-line 'BTC go to zero?' fear question."
+    },
+    {
+      "name": "Harri Konola",
+      "handle": "@HarriKonola",
+      "views": 115266,
+      "url": "https://x.com/HarriKonola/status/2124232855639470285",
+      "hook": "STAR (10k+), +108.9k/day to 115.3k: 'Hey @grok, how many hours did a Boomer work to afford a house, car and groceries in 1985 vs a 28-year-old today? Show the numbers.' Generational affordability debate; fastest climber after @solopribuilds."
     },
     {
       "name": "The Julia Hurley",
       "handle": "@justhomesgroup",
-      "views": 108567,
+      "views": 108619,
       "url": "https://x.com/justhomesgroup/status/2122768424300339390",
       "hook": "STAR (10k+), flat at 108.6k: a local realtor's 'To the men in my DMs…' call-out ('we need an East Tennessee come-to-Jesus meeting… $90,000 truck, bass boat…'). 225 likes, 80 replies. Regional humor plus a call-out of the audience."
     },
     {
       "name": "Chris Pulver",
       "handle": "@ChrisPulver_",
-      "views": 104252,
+      "views": 104274,
       "url": "https://x.com/ChrisPulver_/status/2122120979505913986",
       "hook": "STAR (10k+), flat at 104.3k: ChrisPulver_'s word-for-word 'choose ONE' copy. After a 4.3x day it has stalled (+0.8k)."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 94805,
+      "views": 95147,
       "url": "https://x.com/GrantCardone/status/2123235066021044453",
-      "hook": "STAR (10k+), flat at 94.8k: political confession. Off-brand; don't copy."
+      "hook": "STAR (10k+), flat at 95.1k: political confession. Off-brand; don't copy."
     },
     {
       "name": "REDevguy1",
@@ -108,72 +115,72 @@
     {
       "name": "Hugh | Investor",
       "handle": "@HughInvests",
-      "views": 86455,
+      "views": 86540,
       "url": "https://x.com/HughInvests/status/2121678138635661597",
       "hook": "STAR (10k+), flat at 86.5k: 'Just buy the S&P 500?' counterpoint: the index once took nearly 13 years to reach a new high. Contrarian take still growing."
     },
     {
       "name": "degenBRO",
       "handle": "@degenBRO__",
-      "views": 78127,
+      "views": 78149,
       "url": "https://x.com/degenBRO__/status/2118074894806053052",
       "hook": "STAR (10k+), flat at 78.1k: first-rental build-cost vent, cement prices, 'no way for poor people'. 144 replies."
     },
     {
       "name": "Chris Pulver",
       "handle": "@ChrisPulver_",
-      "views": 71598,
+      "views": 71605,
       "url": "https://x.com/ChrisPulver_/status/2123134056896553341",
       "hook": "NEW STAR (10k+), flat at 71.6k: 'I'm 60, retired from Berkshire Hathaway, $330,000/month… 4 stocks <$50' persona bait. Only 44 likes but 95 bookmarks. Low-trust claim format. Do not copy it (it implies returns)."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 63325,
+      "views": 63659,
       "url": "https://x.com/GrantCardone/status/2123079307396276470",
-      "hook": "STAR (10k+), flat at 63.3k: 'Would you invest 1,000,000 in Anthropic?' Slowing (+4.2k) as the IPO news ages."
+      "hook": "STAR (10k+), flat at 63.7k: 'Would you invest 1,000,000 in Anthropic?' Slowing (+4.2k) as the IPO news ages."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 56141,
+      "views": 56414,
       "url": "https://x.com/GrantCardone/status/2122872336487473497",
-      "hook": "STAR (10k+), flat at 56.1k: 'Times of crisis always present opportunities. Act don't panic.' 1,730 likes. Short one-liner."
+      "hook": "STAR (10k+), flat at 56.4k: 'Times of crisis always present opportunities. Act don't panic.' 1,730 likes. Short one-liner."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 54529,
+      "views": 54567,
       "url": "https://x.com/GrantCardone/status/2120238164837286150",
-      "hook": "STAR (10k+), flat at 54.5k: 'Market is freaking over .1 CPI higher than expected.' One-line macro reaction, 101 replies."
+      "hook": "STAR (10k+), flat at 54.6k: 'Market is freaking over .1 CPI higher than expected.' One-line macro reaction, 101 replies."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 51886,
+      "views": 51956,
       "url": "https://x.com/GrantCardone/status/2121101885390377071",
-      "hook": "STAR (10k+), flat at 51.9k: 'CardoneCapital adds 7 BTC to Fund 28 @ 70,000.' 1,194 likes, 114 replies. Third straight RE + BTC star."
+      "hook": "STAR (10k+), flat at 52.0k: 'CardoneCapital adds 7 BTC to Fund 28 @ 70,000.' 1,194 likes, 114 replies. Third straight RE + BTC star."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 50145,
+      "views": 50266,
       "url": "https://x.com/GrantCardone/status/2121697672541114876",
-      "hook": "STAR (10k+), flat at 50.1k: Cardone 'tenants, termites, toilets' landlord take. Still creeping up."
+      "hook": "STAR (10k+), flat at 50.3k: Cardone 'tenants, termites, toilets' landlord take. Still creeping up."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 49136,
+      "views": 49155,
       "url": "https://x.com/GrantCardone/status/2118499686298317229",
-      "hook": "STAR (10k+), flat at 49.1k: competence + hard work will be amazing. 807 likes."
+      "hook": "STAR (10k+), flat at 49.2k: competence + hard work will be amazing. 807 likes."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 47346,
+      "views": 47379,
       "url": "https://x.com/GrantCardone/status/2119578646469886225",
-      "hook": "STAR (10k+), flat at 47.3k: '$73,500 added' proof-of-progress photo. 1,730 likes, still climbing."
+      "hook": "STAR (10k+), flat at 47.4k: '$73,500 added' proof-of-progress photo. 1,730 likes, still climbing."
     },
     {
       "name": "Joanna",
@@ -185,121 +192,135 @@
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 42235,
+      "views": 42253,
       "url": "https://x.com/GrantCardone/status/2118377364551856209",
-      "hook": "STAR (10k+), flat at 42.2k: institutions abandoning multifamily for AI data centers = 'opportunity of a lifetime' frame. 189 likes."
+      "hook": "STAR (10k+), flat at 42.3k: institutions abandoning multifamily for AI data centers = 'opportunity of a lifetime' frame. 189 likes."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 41991,
+      "views": 42095,
+      "url": "https://x.com/GrantCardone/status/2123432639537480061",
+      "hook": "STAR (10k+), flat at 42.1k: 'Looks like JPM kept all the shares of ANT for their clients.' Biggest mover today; the Anthropic IPO thread keeps paying."
+    },
+    {
+      "name": "Grant Cardone",
+      "handle": "@GrantCardone",
+      "views": 42019,
       "url": "https://x.com/GrantCardone/status/2119231236887449984",
       "hook": "STAR (10k+), flat at 42.0k: 'Consumers buy price, investors buy value.' Short contrast line + three bullets. 320 likes."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 41955,
+      "views": 41991,
       "url": "https://x.com/GrantCardone/status/2120279793765683353",
       "hook": "STAR (10k+), flat at 42.0k: 'All this AI and the Fed still depends on old numbers?' Question-form macro take, 73 replies."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 41749,
-      "url": "https://x.com/GrantCardone/status/2123432639537480061",
-      "hook": "STAR (10k+), flat at 41.7k: 'Looks like JPM kept all the shares of ANT for their clients.' Biggest mover today; the Anthropic IPO thread keeps paying."
-    },
-    {
-      "name": "Grant Cardone",
-      "handle": "@GrantCardone",
-      "views": 41192,
+      "views": 41272,
       "url": "https://x.com/GrantCardone/status/2121380327537221886",
-      "hook": "STAR (10k+), flat at 41.2k: NEW STAR (10k+): 33.8k overnight. 'Entire USA DOWN! CardoneCapital added another 11 BTC at $68,000 while being grounded by FAA.' News-moment + RE/BTC proof post."
+      "hook": "STAR (10k+), flat at 41.3k: NEW STAR (10k+): 33.8k overnight. 'Entire USA DOWN! CardoneCapital added another 11 BTC at $68,000 while being grounded by FAA.' News-moment + RE/BTC proof post."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 40437,
+      "views": 40464,
       "url": "https://x.com/GrantCardone/status/2119056490715643904",
-      "hook": "STAR (10k+), flat at 40.4k: excuses vs $275-rent duplex origin story. 469 likes, 58 bookmarks."
+      "hook": "STAR (10k+), flat at 40.5k: excuses vs $275-rent duplex origin story. 469 likes, 58 bookmarks."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 40054,
+      "views": 40076,
       "url": "https://x.com/GrantCardone/status/2118696359163515115",
       "hook": "STAR (10k+), flat at 40.1k: 'Is the stock market correction done?' Question/poll format. 68 replies."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 39357,
+      "views": 39667,
       "url": "https://x.com/GrantCardone/status/2123278267801043328",
-      "hook": "STAR (10k+), flat at 39.4k: 'How high does @AnthropicAI go tomorrow?' News-jack question still climbing."
+      "hook": "STAR (10k+), flat at 39.7k: 'How high does @AnthropicAI go tomorrow?' News-jack question still climbing."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 37663,
+      "views": 37690,
       "url": "https://x.com/GrantCardone/status/2119942155401629745",
       "hook": "STAR (10k+), flat at 37.7k: 'Returning $230M to investors, closing $500M more in Florida, best buying opportunity since 2012.' Proof number + timing claim."
     },
     {
       "name": "Grant Cardone",
       "handle": "@GrantCardone",
-      "views": 35653,
+      "views": 35699,
       "url": "https://x.com/GrantCardone/status/2118798656371634528",
       "hook": "STAR (10k+), flat at 35.7k: 'GET YOUR MONEY IN REAL ESTATE RIGHT NOW' + zoom CTA. 260 likes, 60 replies."
     },
     {
       "name": "wealthmoose",
       "handle": "@wealthmoose",
-      "views": 29119,
+      "views": 29202,
       "url": "https://x.com/wealthmoose/status/2123852784231457105",
-      "hook": "STAR (10k+), +6.5k/day at 29.1k: Canada remix of the 'Hey @grok, you're 35 with $500K, choose ONE' fork. Fastest mover on the board; localizing still works."
+      "hook": "STAR (10k+), flat at 29.2k: Canada remix of the 'Hey @grok, you're 35 with $500K, choose ONE' fork. Fastest mover on the board; localizing still works."
     },
     {
       "name": "c_erraaa",
       "handle": "@c_erraaa",
-      "views": 28619,
+      "views": 28636,
       "url": "https://x.com/c_erraaa/status/2122383297686966523",
       "hook": "STAR (10k+), flat at 28.6k: c_erraaa's 45/$750K 'choose ONE' variant. Still climbing (+3.0k) but slowing."
     },
     {
       "name": "Hugh",
       "handle": "@HughInvests",
-      "views": 25388,
+      "views": 25398,
       "url": "https://x.com/HughInvests/status/2123041889502847261",
       "hook": "NEW STAR (10k+), flat at 25.4k: 'You're 32. Earning £44k… Renting, with no property. Are you doing alright, or should you be further ahead by now?' A benchmark question that is still climbing."
     },
     {
-      "name": "Grant Cardone",
-      "handle": "@GrantCardone",
-      "views": 7842,
-      "url": "https://x.com/GrantCardone/status/2123075044490313920",
-      "hook": "NEW HIT (5k+), flat at 7.8k: 'If you were down to your last 1,000,000 and had to invest in Anthropic…' The earlier, wordier version did far worse than the short 'Would you invest' question."
+      "name": "LamNam 🔱 Investor",
+      "handle": "@_LamNam_",
+      "views": 14128,
+      "url": "https://x.com/_LamNam_/status/2124767909163712569",
+      "hook": "STAR (10k+), new: 'Hey @grok, how come 40% of my mortgage payment goes on interest when my rate is only 2%? Is this some kind of scam? Explain like Omar Little from The Wire.' 14.1k in ~8h. Grok ask + pop-culture explainer persona on a mortgage mechanism (amortization)."
     },
     {
-      "name": "Harri Konola",
-      "handle": "@HarriKonola",
-      "views": 6371,
-      "url": "https://x.com/HarriKonola/status/2124232855639470285",
-      "hook": "HIT (5k+), new: 'Hey @grok, how many hours did a Boomer work to afford a house, car and groceries in 1985 vs a 28-year-old today? Show the numbers.' Generational affordability debate."
+      "name": "wealthmoose",
+      "handle": "@wealthmoose",
+      "views": 9060,
+      "url": "https://x.com/wealthmoose/status/2124659822549508505",
+      "hook": "HIT (5k+), new: 'Hey @grok, I'm 35 with $500 extra a month and a 5% mortgage. Pay it down or invest? Run the numbers to 65 for a Canadian and an American.' Same author as the Canada 'choose ONE' remix; specific person + run-the-numbers ask."
+    },
+    {
+      "name": "Grant Cardone",
+      "handle": "@GrantCardone",
+      "views": 7902,
+      "url": "https://x.com/GrantCardone/status/2123075044490313920",
+      "hook": "NEW HIT (5k+), flat at 7.9k: 'If you were down to your last 1,000,000 and had to invest in Anthropic…' The earlier, wordier version did far worse than the short 'Would you invest' question."
     },
     {
       "name": "hunter",
       "handle": "@hxxntrr",
-      "views": 6337,
+      "views": 6368,
       "url": "https://x.com/hxxntrr/status/2123053944700309537",
-      "hook": "NEW HIT (5k+), flat at 6.3k: 'I am $1,400,000 in debt right now and I pray the banks let me borrow another million on Monday.' A leverage brag/joke."
+      "hook": "NEW HIT (5k+), flat at 6.4k: 'I am $1,400,000 in debt right now and I pray the banks let me borrow another million on Monday.' A leverage brag/joke."
+    },
+    {
+      "name": "BoldStocksBabe",
+      "handle": "@Boldstocksbabe",
+      "views": 5309,
+      "url": "https://x.com/Boldstocksbabe/status/2124536407884530127",
+      "hook": "HIT (5k+), new, adjacent: $FCPT bought a New Jersey retail-corridor collision-shop property for $3.9M on a triple-net lease, 6.9% cap rate. NJ commercial deal recap with one property and real numbers."
     }
   ],
   "outsiders": [],
   "patterns": [
-    "'Hey @grok, give me a year-by-year plan' for a specific life situation: @solopribuilds hit 652.7k in ~15h (40 y/o engineer, mortgage, kids, AI risk). The specific person + timeline + 'realistic plan' ask beats a generic question. Keywords: @grok, year by year, realistic plan, mortgage, 2030.",
-    "One-street, real-numbers deal story: @REIMakayla's grease-fire / insurance-check as-is purchase did 220.0k with 164 bookmarks. Explains a mechanism (two-party insurance check, mortgage payoff at closing) through one house. Keywords: as-is, insurance check, sold as-is, distressed seller.",
-    "Localized 'choose ONE' still compounding: @wealthmoose's Canada remix +6.5k overnight to 29.1k, the fastest board mover. Cardone's Anthropic stack slowed to +0.4k to +0.6k/day. Organic/relationship deal flow (@NickMaccini '$0 in marketing', 2.1k) is an early on-niche angle."
+    "'Hey @grok, give me a year-by-year plan' is the meta: @solopribuilds went from 652.7k to 1.12M in a day (+462.5k), now #1 on the board. Specific person + age + obligation (mortgage, kids) + timeline. Keywords: @grok, year by year, survival plan, mortgage, 2030.",
+    "'Hey @grok, show the numbers' on housing affordability: @HarriKonola's 1985 Boomer vs 28-year-old hours-to-afford-a-house ask jumped +108.9k to 115.3k. @_LamNam_'s 'why does 40% of my 2% mortgage go to interest? Explain like Omar Little' did 14.1k in ~8h. Keywords: show the numbers, 1985 vs today, amortization, explain like.",
+    "One-house, real-mechanism stories keep compounding: @REIMakayla's grease-fire / insurance-check as-is sale +12.2k to 232.2k. Watchlist still quiet: no new originals from @workwithbar (Nov 15 video, 3 views) or @Jabbar_Now (last original Sep 15)."
   ],
   "no_hits": [
     {
@@ -313,29 +334,29 @@
       "max_views": 0
     }
   ],
-  "virals_narrative": "Scanned watchlist originals (nothing new: @workwithbar's Nov 15 Philly seller video still at 3 views; @Jabbar_Now has no originals since Sep), refreshed 38 board posts, and searched niche originals since Nov 20. Top mover on the board: @wealthmoose's Canada 'choose ONE' remix +6.5k to 29.1k. New stars: @solopribuilds' 'Hey @grok, year-by-year survival plan' (652.7k, adjacent niche) and @REIMakayla's grease-fire as-is insurance-check story (220.0k, on-niche). Cardone's stack is flattening (+0.4k to +0.6k/day). Skipped noise from broad keyword search (K-pop, politics).",
-  "narrative_synthesis": "Today's meta: (1) specific life situation + 'Hey @grok, give me a year-by-year plan', (2) one-house, real-mechanism distressed-seller stories, (3) relationship-driven deal flow over ads. Drafts: a Montco 'year-by-year plan' Grok ask, a damaged-house seller explainer, and a no-ads deal-source question.",
+  "virals_narrative": "Scanned watchlist originals (nothing new: @workwithbar's Nov 15 Philly seller video still at 3 views; @Jabbar_Now has no originals since Sep), refreshed 41 board posts, and searched niche originals since Nov 21. Top mover: @solopribuilds' 'Hey @grok, year-by-year survival plan' +462.5k to 1.12M, now #1. @HarriKonola's 1985-vs-today affordability ask +108.9k to 115.3k. New: @_LamNam_'s 'explain my mortgage interest like Omar Little' (14.1k), @wealthmoose's pay-down-vs-invest ask (9.1k), and a NJ triple-net deal recap from @Boldstocksbabe (5.3k).",
+  "narrative_synthesis": "Today's meta: (1) 'Hey @grok, year-by-year plan' for a specific person (now 1.12M), (2) 'Hey @grok, show the numbers' on housing affordability and mortgage mechanics, (3) one-house distressed-seller stories with real numbers. Drafts: an inherited-rowhome 'plan' Grok ask, a Philly then-vs-now affordability ask, and an amortization explainer ask.",
   "virals_window": "last ~48h",
   "virals_target": 20,
   "hits_count": 0,
   "outsiders_count": 0,
   "previous_day": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-23",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -359,13 +380,14 @@
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "week": {
-      "label": "Rolling week · Nov 16–Nov 22",
+      "label": "Rolling week · Nov 17–Nov 23",
       "range": [
-        "2026-11-16",
-        "2026-11-22"
+        "2026-11-17",
+        "2026-11-23"
       ],
       "entries": []
     },
@@ -373,7 +395,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-22"
+        "2026-11-23"
       ],
       "entries": []
     }
@@ -406,19 +428,19 @@
   "you_rank": null,
   "drafts": [
     {
-      "draft_en": "Hey @grok, I'm 45, live in Montgomery County PA, work a full-time W-2 job, and have $60K saved.\n\nI want to own 3 properties by 2030 without quitting my job.\n\nGive me a realistic year-by-year plan from 2026 to 2030. Include the risks, what could go wrong, and what you'd skip.",
-      "pattern": "'Hey @grok, year-by-year plan' for a specific person (@solopribuilds, 652.7k). Localized to Montco. The $60K and 3-property goal are a hypothetical scenario, not Bar's numbers. No promised returns; asks for risks.",
-      "video_tip": "15s selfie in front of a Montco twin: read the question to camera, then 'Let's see what Grok says, and I'll tell you where I'd disagree.' Captions burned in. Follow up by quote-posting Grok's reply with your 25-year take."
+      "draft_en": "Hey @grok, I just inherited my grandmother's rowhome in North Philly.\n\nIt needs major repairs, there are back taxes, and my two cousins are on the deed too.\n\nGive me a realistic step-by-step plan for the next 90 days. What do I do first, what are the risks, and what should I NOT do?",
+      "pattern": "'Hey @grok, give me a plan' for a specific person (@solopribuilds, 1.12M). Localized to a Philly inherited-property situation. Hypothetical scenario, not a real seller; no numbers promised.",
+      "video_tip": "15s on a Philly rowhome block: read the question to camera, then 'Let's see what Grok says, and I'll tell you what 25+ years of these deals taught me.' Burned-in captions. Quote-post Grok's answer with your corrections."
     },
     {
-      "draft_en": "Your Philly house had a fire, smoke, or water damage.\n\nMost owners think they have to fix it before they can sell. You don't.\n\nYou can sell it as-is. If there's a mortgage, the insurance check often lists your lender too, so talk to your adjuster and your lender before you decide.\n\nFixing first isn't always the better move. Run the numbers both ways.",
-      "pattern": "One-house distressed-seller mechanism (@REIMakayla grease-fire story, 220.0k, 164 bookmarks). Ties to @workwithbar's as-is seller audience. No invented deal numbers; general info, not legal or insurance advice. Needs SENTINEL check on the insurance-check wording.",
-      "video_tip": "20s walk-through B-roll of a damaged room (your own or licensed stock), voiceover the three beats: 'You don't have to fix it. Talk to your adjuster and lender. Run both numbers.' End card: 'Questions about an as-is sale? DM me.'"
+      "draft_en": "Hey @grok, how many hours of work at the median wage did it take to afford a typical Philadelphia rowhome in 1995 vs today?\n\nShow the numbers: price, mortgage rate, monthly payment, and hours worked per month.",
+      "pattern": "'Hey @grok, show the numbers' generational affordability (@HarriKonola, 115.3k, +108.9k/day). Localized to Philly. Let Grok supply figures; verify them before replying with your take.",
+      "video_tip": "Split-screen: 1995-style photo of a rowhome vs today's listing screenshot. Read the question, end with 'Grok's answer next, then my take on what it means for buyers and sellers in 2026.'"
     },
     {
-      "draft_en": "25+ years in real estate taught me this: some of the best deals never come from ads.\n\nThe best ones came from people who already trusted me: a contractor, an attorney handling an estate, a neighbor who knew someone who had to sell.\n\nWhere did your best deal come from?",
-      "pattern": "Relationship deal flow over paid marketing (@NickMaccini '$0 in marketing', 2.1k early). Uses Bar's real tenure and the fact he runs no paid ads; no invented figures. Bar should confirm the three example sources match his experience.",
-      "video_tip": "15s talking head on a Philly block: count the three sources on your fingers, end with 'Comment yours.' Pin your own reply naming your #1 source."
+      "draft_en": "Hey @grok, why does most of my mortgage payment go to interest in the first few years, even with a decent rate?\n\nExplain amortization like a South Philly contractor explaining a job estimate. Then show year 1 vs year 10 of a 30-year loan.",
+      "pattern": "'Hey @grok, explain like [character]' on mortgage mechanics (@_LamNam_ Omar Little ask, 14.1k in ~8h). Localized persona; educational, no advice or promised outcomes.",
+      "video_tip": "Hard hat, clipboard, 10s: 'Somebody explain amortization to me like a contractor.' Cut to the Grok reply on screen. Caption: 'Year 1 vs year 10 is wild.'"
     }
   ]
 }
